@@ -1,9 +1,4 @@
-# Desafio 01 - Cartões Expansíveis
+# Desafio 100 Dias CSS / Javascript
 
-## Oque é
-Consiste em distribuir um conjunto de imagens dentro de um container que se "expandem" ao serem clicados
-
-## Conceitos
-Captura do elemento das imagens `document.querySelectorAll` e adição de evento para remoção e inclusão de classe que expande/retrai os elementos.
-Pode ser utilizado com `elemento.classList.toggle()` ou `elemento.classList.add()`
-
+## Desafio 2 em 1 - Elaboração de projetos envolvendo HTML / CSS / Javascript
+### São mais de 250 projetos para serem desenvolvidos
